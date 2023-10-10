@@ -13,8 +13,11 @@ Here's what I've got so far:
 I have disassembled the toy and found what hardware it is using:
 
   * Main processor: XR871ET
+    
   * Audio processor: A101
+    
   * Bluetooth(?): JL AS20AP24150
+    
   * Storage: GD25Q64C
 
 Ignored files/folders:
