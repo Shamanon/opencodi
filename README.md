@@ -13,12 +13,17 @@ Here's what I've got so far:
 I have disassembled the toy and found what hardware it is using:
 
   * Main processor: XR871ET
-    
   * Audio processor: A101
-    
   * Bluetooth(?): JL AS20AP24150
-    
   * Storage: GD25Q64C
+
+Road-map:
+
+  1. Acquire USB to Serial converter and create custom USB plug for reading/writing firmware to XR871 chip.
+  2. Determine if existing firmware image can be de-compiled and edited or if a new FW will need to be written from scratch.
+  3. Trace out all connections and create a detailed schematic of the motherboard.
+  4. Create custom firmware. Can I make this thing run Linux?
+  5. Use Codi as a control hub for smart devices similar to Siri or Alexa... Mycroft or Rhasspy?
 
 Ignored files/folders:
 
