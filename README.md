@@ -28,5 +28,4 @@ Road-map:
 Ignored files/folders:
 
   * SDK: This is where I clone the XRadio sdk into my project https://github.com/XradioTech/XR871SDK
-
   * SD_Contents: This is where I put the files off of the SD card in the Codi in case I need them later
