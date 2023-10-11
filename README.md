@@ -10,6 +10,11 @@ Coming up with a new firmware for this device is worth the time for a few reason
 
 Here's what I've got so far:
 
+MetalCodi!
+I have made custom SD contents, located in SD_Metalcodi to make Codi play some death metal songs. Simply replace the files on the interal SD with the contents of this folder. 
+
+To access the SD Codi will need to be disassembled and you will need to scrape the glue of the sides of SD card holder so it can be unlocked, removed and inserted in your computer for writing. 
+
 I have disassembled the toy and found what hardware it is using:
 
   * Main processor: XR871ET
