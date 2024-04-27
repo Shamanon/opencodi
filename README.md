@@ -25,6 +25,7 @@ I have disassembled the toy and found what hardware it is using:
 Road-map:
 
   1. Acquire USB to Serial converter and create custom USB plug for reading/writing firmware to XR871 chip.
+     DONE! See WiKi for How-to: https://github.com/Shamanon/opencodi/wiki/Serial-Connection
   2. Determine if existing firmware image can be de-compiled and edited or if a new FW will need to be written from scratch.
   3. Trace out all connections and create a detailed schematic of the motherboard.
   4. Create custom firmware. Can I make this thing run Linux?
